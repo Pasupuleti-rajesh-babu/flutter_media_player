@@ -52,13 +52,9 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/image/
     - assets/Video/Captain_Jack.mp4
-    - assets/Audio/on_my_way.mp3
     - assets/Audio/Safari.mp3
     - assets/Audio/Money_Heist.mp3
-    - assets/logo.jpg
-    - assets/images/
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
@@ -84,19 +80,5 @@ flutter:
   #       - asset: fonts/TrajanPro.ttf
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
-  fonts:
-    - family: Roboto
-      fonts:
-        - asset: assets/roboto/Roboto-Thin.ttf
-          weight: 100
-        - asset: assets/roboto/Roboto-Regular.ttf
-          weight: 300
-        - asset: assets/roboto/Roboto-Medium.ttf
-          weight: 500
-        - asset: assets/roboto/Roboto-Bold.ttf
-          weight: 700
-        - asset: assets/roboto/Roboto-Black.ttf
-          weight: 900
-        - asset: assets/roboto/Roboto-LightItalic.ttf
-          style: italic  # For details regarding fonts from package dependencies,
+  # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
